@@ -5,8 +5,10 @@ body {
 }
 
 .main-image {
-    border: solid 4px black;
+    border: solid 4px palevioletred;
     border-radius: 50%;
+    width: 240px;
+    height: 240px;
     display: block;
     margin-left: auto;
     margin-right: auto;
