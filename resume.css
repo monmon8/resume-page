@@ -1,16 +1,22 @@
 body {
     font-family: "Arial";
+    background-color: lightpink;
+    back
 }
 
 .main-image {
     border: solid 4px black;
     border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 h1 {
-    background-color: #e2e2e2;
+    background-color: palevioletred;
     padding: 5px;
+    margin: 70px;
     text-align: center;
 }
 
