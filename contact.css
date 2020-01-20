@@ -1,4 +1,10 @@
 body {
   font-family: "Arial";
   background-color: green;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+
 }
